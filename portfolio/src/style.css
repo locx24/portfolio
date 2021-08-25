@@ -1,0 +1,15 @@
+#navbar{
+
+  position:fixed;
+  
+}
+
+@media(max-width:480px){
+  
+  background-color:#28282B
+  
+}
+
+body{
+  background-color:#7fd6d5;
+}
